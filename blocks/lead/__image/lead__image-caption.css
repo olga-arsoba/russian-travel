@@ -1,0 +1,4 @@
+.lead__image-caption {
+    display: flex;
+    flex-direction: column;
+}
