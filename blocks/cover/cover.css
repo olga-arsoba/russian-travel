@@ -35,7 +35,7 @@
     right: 0;
     z-index: 0;
     position: absolute;
-    background-position: center
+    background-position: center;
 }
 
 @media screen and (max-width: 1024px) {
