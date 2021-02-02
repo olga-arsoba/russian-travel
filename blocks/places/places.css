@@ -21,5 +21,7 @@
     .places {
         padding-top: 64px;
         padding-bottom: 66px;
+        margin-left: 0;
+        margin-right: 0;
     }
 }
