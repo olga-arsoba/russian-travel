@@ -19,3 +19,9 @@
         margin: 0;
     }
 }
+
+@media (min-width: 320px) and (max-width: 768px) {
+    .cover__subtitle {
+        width: 100%;
+    }
+}
